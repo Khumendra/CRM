@@ -1,0 +1,28 @@
+User Login crediential
+username = dennis3/dennis4
+password = pwd_dennis3@Admin
+
+
+
+
+User: django2               #This has added from admin site
+PWD: pwddjangoAdmin2
+
+
+User: john
+PWD: pwd_john@Admin
+
+
+User: steve
+PWD: pwd_steve@Admin
+
+User: sam
+PWD: pwd_sam@Admin
+
+User: david
+PWD: pwd_david@Admin
+
++++++++++++ With Real Email +++++++++++
+User: khumendra1
+Email: actual@gmail.com
+PWD: ********
